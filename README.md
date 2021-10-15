@@ -2,11 +2,10 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-demonstracao">Demonstração</a> •
+ <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#-autor">Autor</a> • 
+ <a href="#-licença">Licença</a> • 
 </p><br />
 
 <h4 align="center"> 
@@ -15,10 +14,40 @@
 
 ## **💻 Sobre o projeto**
 
-**Crud-Angular** é um projeto de gerenciamento CRUD(create, read, update, delete) de um produto, com o objetivo de aprimorar minhas habilidades e conhecer melhor a framework **Angular**.
+**Crud-Angular** é um projeto de gerenciamento CRUD(create, read, update, delete) de um produto, com o objetivo de estudar e conhecer melhor a framework **Angular**.
 
-O projeto foi desenvolvido durante o curso **Angular 9 - Essencial** ministrado pela escola de programação **cod3r**.
+O projeto foi desenvolvido durante o curso **Angular 9 - Essencial** ministrado pela escola de programação <a href="https://www.cod3r.com.br/?ref=4b3da5&gclid=Cj0KCQjwqp-LBhDQARIsAO0a6aKmk5OLY628xNv7AKodWSKknIdbIU8fQBePEa96p30H7RwmuZcc2W4aAp0kEALw_wcB">cod3r</a>.
 <br /><br />
+
+---
+
+## **⚙️ Funcionalidades**
+
+- [x] Usuário pode ter controle do gerenciamento de um produto, como: 
+  - [x] cadastrar um novo produto
+  - [x] visualizar todos os produtos do sistema
+  - [x] editar um produto cadastrado
+  - [x] excluir um produto 
+
+---
+
+## **🛠 Tecnologias**
+As seguintes ferramentas foram usadas na construção do projeto:
+
+&nbsp; Frontend:
+- [Angular v.11](https://angular.io/)
+- [Angular Material Design](https://material.angular.io/)
+- Html
+- Css
+- Typescript
+
+> Veja o arquivo  [package.json](https://github.com/N1ck-gif/crud-angular/blob/main/frontend/package.json)
+
+&nbsp; Backend:
+- JSON Server
+
+
+> Veja o arquivo  [package.json](https://github.com/N1ck-gif/crud-angular/blob/main/backend/package.json)
 
 ---
 
@@ -102,3 +131,6 @@ $ npm start
 <br />
 
 ---
+
+## 📝 **Licença**
+Este projeto esta sobe a licença [MIT](./LICENSE).
