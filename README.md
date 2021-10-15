@@ -14,7 +14,7 @@
 
 ## **💻 Sobre o projeto**
 
-**Crud-Angular** é um projeto de gerenciamento CRUD(create, read, update, delete) de um produto, com o objetivo de estudar e conhecer melhor a framework **Angular**.
+**Crud-Angular** é um projeto de gerenciamento **crud** (create, read, update, delete) de produtos (como por exemplo, os produtos de um e-commerce) com o objetivo de estudar e conhecer melhor uma das framework mais famosas do mercado, **Angular**.
 
 O projeto foi desenvolvido durante o curso **Angular 9 - Essencial** ministrado pela escola de programação <a href="https://www.cod3r.com.br/?ref=4b3da5&gclid=Cj0KCQjwqp-LBhDQARIsAO0a6aKmk5OLY628xNv7AKodWSKknIdbIU8fQBePEa96p30H7RwmuZcc2W4aAp0kEALw_wcB">cod3r</a>.
 <br /><br />
@@ -23,11 +23,11 @@ O projeto foi desenvolvido durante o curso **Angular 9 - Essencial** ministrado 
 
 ## **⚙️ Funcionalidades**
 
-- [x] Usuário pode ter controle do gerenciamento de um produto, como: 
-  - [x] cadastrar um novo produto
-  - [x] visualizar todos os produtos do sistema
-  - [x] editar um produto cadastrado
-  - [x] excluir um produto 
+* Usuário pode ter controle e gerenciar os produtos do sistema, como: 
+  * Cadastrar um novo produto
+  * Visualizar todos os produtos do sistema
+  * Editar um produto cadastrado
+  * Excluir um produto 
 
 ---
 
