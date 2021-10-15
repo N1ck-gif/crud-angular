@@ -20,7 +20,7 @@ export class ProductUpdateComponent implements OnInit {
 
   ngOnInit(): void {
     // Pegando o Id que esta vindo da rota
-    const id = this.route.snapshot.paramMap.get('id');
+    const id = this.route.snapshot.paramMap.get('id') || "";
     this.productService.readById(id).subscribe((product) => {
       this.product = product;
     });
